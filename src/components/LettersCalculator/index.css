@@ -1,0 +1,11 @@
+/* Write your code here. */
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.img{
+    width: 100px;
+}
